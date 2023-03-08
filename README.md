@@ -1,1 +1,1 @@
-# uniapp-vite2
+# uniapp-vite
